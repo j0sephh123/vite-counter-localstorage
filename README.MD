@@ -25,12 +25,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/j0sephh123/vite-counter-localstorage
     ```
 
 2. Navigate into the project directory
     ```sh
-    cd your-repo-name
+    cd vite-counter-localstorage
     ```
 
 3. Install the dependencies
